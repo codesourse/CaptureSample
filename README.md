@@ -9,3 +9,6 @@ Capture high-quality images with depth and gravity data to use with RealityKit O
 ## Configure the Sample Code Project
 
 This project requires an iPhone or iPad with dual rear cameras.
+
+
+https://developer.apple.com/documentation/realitykit/taking_pictures_for_3d_object_capture
